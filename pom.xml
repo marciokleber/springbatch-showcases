@@ -8,14 +8,16 @@
         <version>3.5.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.github.marciokleber</groupId>
     <artifactId>springbatch-showcases</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>springbatch-showcases</name>
     <description>springbatch-showcases</description>
 
     <modules>
-        <module>springbatch-simple-task</module>
+        <module>projects/springbatch-simple-task</module>
     </modules>
 
 
