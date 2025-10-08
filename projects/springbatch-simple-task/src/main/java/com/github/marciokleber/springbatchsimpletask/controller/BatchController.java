@@ -1,4 +1,4 @@
-package com.github.marciokleber.controller;
+package com.github.marciokleber.springbatchsimpletask.controller;
 
 
 import lombok.RequiredArgsConstructor;

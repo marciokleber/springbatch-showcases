@@ -1,4 +1,4 @@
-package com.github.marciokleber.config;
+package com.github.marciokleber.springbatchsimpletask.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.batch.core.Job;
